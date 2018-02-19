@@ -271,13 +271,13 @@
 @media handheld, only screen and (max-width: 767px) {
 
   header{
-    background-color: #0f283e;
+    background-color: #000051;
   }
   header .navbar-brand img{
     margin-left: 10px;
   }
   .navbar {
-    background-color: #0f283e;
+    background-color: #000051;
     width: 100%;
   }
   .navbar .navbar-nav {
