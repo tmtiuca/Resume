@@ -92,8 +92,8 @@ body {
   font-size: 16px;
 }
 footer {
-  background-color: #0f283e;
-  border-top: 1px solid #1e374b;
+  background-color: #000051;
+  border-top: 1px solid #000051;
 }
 footer .navbar {
   margin: 10px 0;
@@ -135,7 +135,7 @@ h6 {
   font-size: 0.875em;
 }
 header {
-  background-color: rgba(22,40,54,0.9);
+  background-color: #000051;
   height: 60px;
   position: relative;
   -webkit-transition: all 0.2s ease-in-out;
@@ -147,7 +147,7 @@ header {
   z-index: 999;
 }
 header:hover {
-  background-color: #162836;
+  background-color: #000041;
 }
 header .submit{
   border: 1px solid #01bafd;
@@ -479,7 +479,7 @@ ul {
  *
 /*******************************  $Dropdown  *******************************/
 .navbar-nav>li>.dropdown-menu {
-  background: #204562;
+  background: #000051;
   -webkit-border-radius: 6px;
   border-radius: 6px;
   left: -50%;
@@ -489,7 +489,7 @@ ul {
   width: 225px;
 }
 .navbar-nav>li>.dropdown-menu:after {
-  border-color: #204562 transparent;
+  border-color: #000051 transparent;
   border-style: solid;
   border-width: 0 10px 10px;
   content: '';
@@ -509,7 +509,7 @@ ul {
   padding: 20px 0 0 0;
 }
 .experience h2{
-  color: #0f283e;
+  color: #000051;
   font-size: 4.4em;
   font-weight: 800;
   line-height: 0.9em;
@@ -603,7 +603,7 @@ ul {
   padding: 20px 0 0 0;
 }
 .education h2{
-  color: #0f283e;
+  color: #000051;
   font-size: 4.4em;
   font-weight: 800;
   line-height: 0.9em;
@@ -926,7 +926,7 @@ ul {
   padding: 60px 0;
 }
 .knowledge h2 {
-  color: #0f283e;
+  color: #000051;
   font-size: 4.4em;
   font-weight: 800;
   line-height: 0.9em;
@@ -1234,7 +1234,7 @@ ul.check li {
   background-color: transparent;
 }
 .navbar-nav>li.active>a {
-  color: #d6ac22;
+  color: #fff;
 }
 /**
  *
@@ -1581,7 +1581,7 @@ ul.check li {
  *
 /*******************************  $Subscribe  *******************************/
 .subscribe {
-  background-color: #0f283e;
+  background-color: #000021;
   padding: 60px 0;
 }
 .subscribe h2 {
