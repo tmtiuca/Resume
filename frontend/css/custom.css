@@ -1,3 +1,7 @@
 #profile-img {
   width: 100%;
 }
+
+#work, #education, #projects, #skills, #contact {
+  padding-top: 70px;
+}
