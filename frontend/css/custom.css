@@ -5,3 +5,10 @@
 #work, #education, #projects, #skills, #contact {
   padding-top: 70px;
 }
+.cv-section-title h1 {
+  color: #0f283e;
+}
+
+.important-name {
+  color: #01BAFD !important;
+}
