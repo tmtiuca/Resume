@@ -725,8 +725,8 @@ ul {
  *
 /*********************************  $Home  *********************************/
 .home {
-  background-image: url("../img/bg/background1.jpg");
-  background-position: top center;
+  background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(150, 150, 150, 0.7)), url("../img/bg/background1.jpg");
+  background-position: center center;
   background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
