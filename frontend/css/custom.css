@@ -12,3 +12,28 @@
 .important-name {
   color: #01BAFD !important;
 }
+
+.vid-container {
+  padding-top: 1em;
+}
+
+video {
+  width: 100%;
+}
+
+video::-internal-media-controls-download-button {
+    display:none;
+}
+
+video::-webkit-media-controls-enclosure {
+    overflow:hidden;
+}
+
+video::-webkit-media-controls-panel {
+    width: calc(100% + 30px); /* Adjust as needed */
+}
+
+.caption {
+  font-size: 0.8em;
+  font-weight: 300;
+}
