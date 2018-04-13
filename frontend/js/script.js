@@ -141,12 +141,12 @@
 
 
 	/***************************  $Owl Carousel  ***************************/
-	$("#carousel-testimonials").owlCarousel({
-		slideSpeed: 300,
-		paginationSpeed: 400,
-		singleItem: true
-	});
-	$("#carousel-testimonials").find('.owl-pagination').append('<div class="owl-page"><!-- dummy dot --></div>');
+	// $("#carousel-testimonials").owlCarousel({
+	// 	slideSpeed: 300,
+	// 	paginationSpeed: 400,
+	// 	singleItem: true
+	// });
+	// $("#carousel-testimonials").find('.owl-pagination').append('<div class="owl-page"><!-- dummy dot --></div>');
 
 
 
