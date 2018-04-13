@@ -151,9 +151,9 @@
 
 
 	/****************************  $Preloader  *****************************/
-	$(window).load(function() {
-		$('#preloader').fadeOut('slow');
-	});
+	// $(window).load(function() {
+	// 	$('#preloader').fadeOut('slow');
+	// });
 
 	/***************************  $Sticky menu  ****************************/
 	$("header").sticky({topSpacing:0, wrapperClassName: 'stickyWrapper'});
